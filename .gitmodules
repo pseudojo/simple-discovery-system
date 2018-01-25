@@ -1,0 +1,6 @@
+[submodule "simple-discovery-server"]
+	path = simple-discovery-server
+	url = https://github.com/pseudojo/simple-discovery-server
+[submodule "simple-service-with-discovery"]
+	path = simple-service-with-discovery
+	url = https://github.com/pseudojo/simple-service-with-discovery
