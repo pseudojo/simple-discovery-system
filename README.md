@@ -5,6 +5,9 @@ Simple cloud-discovery system
 These are submodules.
 - [simple-discovery-server][discovery-server]
 - [simple-service-with-discovery][simple-service]
+- [zuul-proxy-service]
 
   [discovery-server]: <https://github.com/pseudojo/simple-discovery-server>
   [simple-service]: <https://github.com/pseudojo/simple-service-with-discovery>
+  [zuul-proxy-service]: <https://github.com/pseudojo/zuul-proxy-service>
+  
