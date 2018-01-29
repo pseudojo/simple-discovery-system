@@ -1,0 +1,3 @@
+@echo off
+echo Update(git pull) submodules...
+git submodule update --remote -f
