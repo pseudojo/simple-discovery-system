@@ -4,3 +4,6 @@
 [submodule "simple-service-with-discovery"]
 	path = simple-service-with-discovery
 	url = https://github.com/pseudojo/simple-service-with-discovery
+[submodule "zuul-proxy-service"]
+	path = zuul-proxy-service
+	url = ../zuul-proxy-service
